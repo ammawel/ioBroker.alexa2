@@ -19,14 +19,9 @@
   "homepage": "https://github.com/Apollon77/ioBroker.alexa2",
   "license": "MIT",
   "keywords": [
-    "sync",
-    "iobroker file",
-    "JetBrains",
-    "webstorm",
-    "file",
-    "debug",
-    "editor",
-    "ide"
+    "ioBroker",
+    "Alexa",
+    "iot"
   ],
   "engines": {
     "node": ">=16.0.0"
