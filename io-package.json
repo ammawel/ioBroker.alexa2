@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "alexa2",
-    "version": "3.26.5",
+    "version": "3.26.6",
     "blockedVersions": [
       "~3.14.0",
       "~3.15.0",
@@ -40,6 +40,19 @@
     },
     "platform": "Javascript/Node.js",
     "news": {
+      "3.26.6": {
+        "en": "Responsive Design added",
+        "de": "Responsive Design hinzugefügt",
+        "ru": "Responsive Design",
+        "pt": "Design responsivo adicionado",
+        "nl": "Responsive Design toegevoegd",
+        "fr": "Design sensible ajouté",
+        "it": "Responsive Design aggiunto",
+        "es": "Diseño responsable añadido",
+        "pl": "Dodano projekt odpowiedzialny",
+        "uk": "Додано адаптивний дизайн",
+        "zh-cn": "添加响应设计"
+      },
       "3.26.5": {
         "en": "Adjust History query to recent Amazon changes",
         "de": "Begleichen Sie die Geschichte Anfrage an aktuelle Amazon-Änderungen",
@@ -117,19 +130,6 @@
         "pl": "Automatycznie zapytanie o aktywność/historię musi być umożliwione ręcznie (jeśli potrzebujemy)",
         "uk": "Автоматично квартету діяльності/історінки необхідно ввімкнути вручну",
         "zh-cn": "活动/活动需要自动查询(如果你需要!)"
-      },
-      "3.25.5": {
-        "en": "Optimize activity detection to process all relevant entries in all cases",
-        "de": "Optimieren Sie die Aktivitätserkennung, um alle relevanten Einträge in allen Fällen zu bearbeiten",
-        "ru": "Оптимизация обнаружения активности для обработки всех соответствующих записей во всех случаях",
-        "pt": "Otimizar a detecção de atividades para processar todas as entradas relevantes em todos os casos",
-        "nl": "Optimaal activiteitsdetector om alle relevante instanties te verwerken in alle gevallen",
-        "fr": "Optimiser la détection d'activité pour traiter toutes les entrées pertinentes dans tous les cas",
-        "it": "Ottimizzare il rilevamento delle attività per elaborare tutte le voci pertinenti in tutti i casi",
-        "es": "Optimize activity detection to process all relevant entries in all cases",
-        "pl": "Wykrywanie aktywności w optymalizacji polega na przetwarzaniu wszystkich istotnych wpisów we wszystkich przypadkach",
-        "uk": "Оптимальне виявлення активності для обробки всіх відповідних записів у всіх випадках",
-        "zh-cn": "制止在所有情况下处理所有有关物品的活动"
       }
     },
     "keywords": [
