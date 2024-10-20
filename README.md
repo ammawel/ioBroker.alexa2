@@ -488,6 +488,7 @@ After deleting an unused device, please restart the adapter to remove them there
 
 ## Changelog
 <!-- ### __WORK IN PROGRESS__ -->
+
 ### __WORK IN PROGRESS__
 * (simatec) Responsive Design added
 
