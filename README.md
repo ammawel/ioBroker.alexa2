@@ -488,6 +488,10 @@ After deleting an unused device, please restart the adapter to remove them there
 
 ## Changelog
 <!-- ### __WORK IN PROGRESS__ -->
+
+### __WORK IN PROGRESS__
+* (Apollon77) Fix Sentry integration
+
 ### 3.26.6 (2024-10-20)
 * (simatec) Responsive Design added
 
