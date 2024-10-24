@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "alexa2",
-    "version": "3.26.6",
+    "version": "3.26.7",
     "blockedVersions": [
       "~3.14.0",
       "~3.15.0",
@@ -40,6 +40,19 @@
     },
     "platform": "Javascript/Node.js",
     "news": {
+      "3.26.7": {
+        "en": "Fix Sentry integration",
+        "de": "Fix Sentry Integration",
+        "ru": "Интеграция с отправкой",
+        "pt": "Integração da Sentry",
+        "nl": "Fix Sentry-integratie",
+        "fr": "Correction de l'intégration Sentry",
+        "it": "Fissa integrazione Sentry",
+        "es": "Integración de Sentry",
+        "pl": "Napraw integrację zapisu",
+        "uk": "Фіксована інтеграція Sentry",
+        "zh-cn": "哨兵一体化"
+      },
       "3.26.6": {
         "en": "Responsive Design added",
         "de": "Responsive Design hinzugefügt",
@@ -117,19 +130,6 @@
         "pl": "Zaginął tekst Admin Config",
         "uk": "Виправлення відсутніх тексту в Конфігурації адміністратора",
         "zh-cn": "Fix 在阿德明·阿菲格斯失踪案文"
-      },
-      "3.26.0": {
-        "en": "Automatically query of activity/history needs to be enabled manually (if you need it!)",
-        "de": "Automatische Abfrage von Aktivität/Geschichte muss manuell aktiviert werden (wenn Sie es benötigen)",
-        "ru": "Автоматически запрос активности/истории должен быть включен вручную (если вам это нужно)",
-        "pt": "Consulta automática da atividade / história precisa ser ativada manualmente (se você precisar)",
-        "nl": "Automatisch onderzoek naar activiteit/historie moet handmatig ingeschakeld worden als je het nodig hebt",
-        "fr": "Une requête automatique d'activité/histoire doit être activée manuellement (si vous en avez besoin) ",
-        "it": "La query automatica di attività/storia deve essere abilitata manualmente (se ne hai bisogno)",
-        "es": "La consulta automática de la actividad/historia necesita ser activada manualmente (si lo necesita)",
-        "pl": "Automatycznie zapytanie o aktywność/historię musi być umożliwione ręcznie (jeśli potrzebujemy)",
-        "uk": "Автоматично квартету діяльності/історінки необхідно ввімкнути вручну",
-        "zh-cn": "活动/活动需要自动查询(如果你需要!)"
       }
     },
     "keywords": [
